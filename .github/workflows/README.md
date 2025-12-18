@@ -1,1 +1,1 @@
-[![show-directory](https://github.com/Khan-L/hexlet-ci-app/actions/workflows/CI.yml/badge.svg)](https://github.com/Khan-L/hexlet-ci-app/actions/workflows/CI.yml)
+[![CI](https://github.com/<Santex05>/<hexlet-ci-app>/actions/workflows/ci.yml/badge.svg)](https://github.com/<Santex05>/<hexlet-ci-app>/actions/workflows/ci.yml)
